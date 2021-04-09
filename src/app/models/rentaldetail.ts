@@ -1,10 +1,10 @@
 export interface Rentaldetail {
   // "rentalId": 1,
-  // "customerName": " Ali Abdullah",
+  // "customerName": "Ali Abdullah",
   // "customerLastName": "Kutlu",
   // "description": "DaciaOtobot",
   // "dailyPrice": 654.00,
-  // "brandName": "Renault ",
+  // "brandName": "Renault   ",
   // "rentalStart": "2021-02-23T23:33:02",
   // "rentalEnd": "2021-06-23T00:00:00"
 

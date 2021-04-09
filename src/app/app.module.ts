@@ -13,6 +13,7 @@ import { RentalComponent } from './components/rental/rental.component';
 import { RentaldetailComponent } from './components/rentaldetail/rentaldetail.component';
 import { NavigateComponent } from './components/navigate/navigate.component';
 
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -24,6 +25,7 @@ import { NavigateComponent } from './components/navigate/navigate.component';
     RentalComponent,
     RentaldetailComponent,
     NavigateComponent,
+  
   ],
   imports: [BrowserModule, AppRoutingModule, HttpClientModule],
   providers: [],
